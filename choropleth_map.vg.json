@@ -18,6 +18,7 @@
         "key": "Country",
         "fields": ["Salary in USD"]
       }
+    },
   ],
   "mark": {"type": "geoshape"},
   "encoding": {
