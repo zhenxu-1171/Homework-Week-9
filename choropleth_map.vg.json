@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "Median Salary in USD for Each Country",
+  "title": "Median Salary in USD for Each Country (2020 to 2023)",
   "width": 800,
   "height": 400,
   "background": "lightblue",
